@@ -1,4 +1,4 @@
-# myapp
+# Vue-Lightbox
 
 ## Project setup
 ```
