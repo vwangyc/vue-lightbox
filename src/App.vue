@@ -34,7 +34,8 @@ export default {
 
 <style>
 .gallery {
-  align-items: center;display: grid;
+  align-items: center;
+  display: grid;
   grid-gap: 15px;
   grid-template-columns: repeat(3, 300px);
   height: 100vh;
